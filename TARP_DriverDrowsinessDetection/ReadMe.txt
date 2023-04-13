@@ -11,6 +11,9 @@
 -> Its aim is just to show the hardware connection layout for our project.
 
 * alert message is the audio message used to alert the driver
+
 * DHT_Library is for interfacing with the Temperature sensor
+
 * Tarp project report is the final report for our project.
+
 * Live Project Demonstration: https://youtu.be/lGitoWjo3aw
